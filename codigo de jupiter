@@ -1,0 +1,8 @@
+class Telefono:
+    "Clase teléfono"
+    def __init__(self):
+        pass
+    def telefonear(self):
+        print('llamando')
+    def colgar(self):
+        print('colgando')        
